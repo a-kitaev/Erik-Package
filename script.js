@@ -75,7 +75,7 @@
       <div class="form-head">
         <div class="eyebrow"><span>FORM CP-2027</span><span>DRAFT</span></div>
         <h1>Compensation Package Election — FY2027</h1>
-        <p class="sub">Select the perks you want. Total budget: ${BUDGET}c.</p>
+        <p class="sub">Select the perks you want.</p>
       </div>
 
       <div class="ledger">
